@@ -138,4 +138,6 @@ int main()
     output2.open("mode.txt");
     output2 << mode << endl;
     output2.close();
+
+    return 0;
 }
