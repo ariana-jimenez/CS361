@@ -1,5 +1,5 @@
 
-# ABOUT 
+# About
 
 
 The purpose of this program is to serve as a tool to handle 
@@ -7,7 +7,7 @@ image metadata. Available options include: viewing metadata,
 deleting metadata, encrypting an image, or decrypting an image.
 
 
-# GETTING STARTED 
+# Getting Started
 
 
 1. On the left hand-side of the main screen, click on the "Browse" 
@@ -23,7 +23,7 @@ deleting metadata, encrypting an image, or decrypting an image.
 
 # FAQ's
 
-## VIEWING IMAGES
+## Viewing Images
 
 * How do I choose an image?
 
@@ -45,7 +45,7 @@ deleting metadata, encrypting an image, or decrypting an image.
 
 
 
-## DELETING METADATA
+## Deleting Metadata
 
 * What does the "Delete Metadata" button do?
 
@@ -64,7 +64,7 @@ deleting metadata, encrypting an image, or decrypting an image.
 
 
 
-## ENCRYPTING IMAGES
+## Encrypting Images
 
 * What does the "Encrypt Image" button do?
 
@@ -98,7 +98,7 @@ deleting metadata, encrypting an image, or decrypting an image.
 
 
 
-## DECRYPTING IMAGES
+## Decrypting Images
 
 * What does the "Decrypt Image" button do?
 
