@@ -1,16 +1,14 @@
 
-*************************
-ABOUT 
-*************************
+# ABOUT 
+
 
 The purpose of this program is to serve as a tool to handle 
 image metadata. Available options include: viewing metadata,
 deleting metadata, encrypting an image, or decrypting an image.
 
 
-*************************
-GETTING STARTED 
-*************************
+# GETTING STARTED 
+
 
 1. On the left hand-side of the main screen, click on the "Browse" 
    button to search for and select an image. 
@@ -23,12 +21,9 @@ GETTING STARTED
    "View Metadata", "Delete Metadata", "Encrypt Image", "Decrypt Image"
 
 
-*************************
-FAQ's
-*************************
+# FAQ's
 
-
-VIEWING IMAGES
+## VIEWING IMAGES
 
 * How do I choose an image?
 
@@ -50,7 +45,7 @@ VIEWING IMAGES
 
 
 
-DELETING METADATA
+## DELETING METADATA
 
 * What does the "Delete Metadata" button do?
 
@@ -69,7 +64,7 @@ DELETING METADATA
 
 
 
-ENCRYPTING IMAGES
+## ENCRYPTING IMAGES
 
 * What does the "Encrypt Image" button do?
 
@@ -103,7 +98,7 @@ ENCRYPTING IMAGES
 
 
 
-DECRYPTING IMAGES
+## DECRYPTING IMAGES
 
 * What does the "Decrypt Image" button do?
 
