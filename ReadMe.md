@@ -1,6 +1,7 @@
 
 # About
 
+Final project for CS 361 - Software Engineering I 
 
 The purpose of this program is to serve as a tool to handle 
 image metadata. Available options include: viewing metadata,
