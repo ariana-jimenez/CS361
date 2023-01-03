@@ -7,6 +7,8 @@ The purpose of this program is to serve as a tool to handle
 image metadata. Available options include: viewing metadata,
 deleting metadata, encrypting an image, or decrypting an image.
 
+Demo video: https://media.oregonstate.edu/media/t/1_r7xcrqhv
+
 
 # Getting Started
 
@@ -28,7 +30,7 @@ deleting metadata, encrypting an image, or decrypting an image.
 
 * How do I choose an image?
 
-- On the left-hand side of the main screen, click on the "Browse" 
+On the left-hand side of the main screen, click on the "Browse" 
   button to search for and select an image file. You can also paste
   the path to the file in the text field.
 
